@@ -11441,10 +11441,15 @@ section#conocenos{
 }
 
 @media (max-width: 576px){
-  .divproductos img{
-  width: 20%;
+  .divproductos img {
+  width: 85%;
   height: auto;
-}
+  }
+
+  .divproductos div{
+    width: 50%;
+  }
+
 }
 
 
