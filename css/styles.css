@@ -11440,6 +11440,14 @@ section#conocenos{
   margin-bottom: 2rem;
 }
 
+@media (max-width: 576px){
+  .divproductos img{
+  width: 20%;
+  height: auto;
+}
+}
+
+
 /* From Uiverse.io by Gaurang7717 */ 
 .Btn {
   display: flex;
